@@ -1,0 +1,7 @@
+.correct_answer {
+    background-color: rgb(0, 132, 0);
+}
+
+.false_answer {
+    background-color: rgb(190, 2, 2);
+}
